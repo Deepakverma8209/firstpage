@@ -1,0 +1,19 @@
+body{ background-image: url("background4.jpg");}
+h1{color: blueviolet;}
+h2{color:lightgrey;}
+#a{color:red;}
+#b{color:blue;}
+#c{color:chartreuse;}
+ul{list-style: circle;}
+img{height:180px;
+    width: 150px;}
+
+ table{border-collapse: separate;
+       border-spacing: 3px 3px;}
+ table,th,td{
+ 	     border: 1px solid #cecfd5;
+ 	     }
+ 	     th,td{padding:15px;}   
+ #book{font-family:Georgia;
+        font-size:20px;}
+        
